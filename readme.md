@@ -27,6 +27,7 @@ Navigate to the MCP server directory and build the project:
 
 ```bash
 cd mcp_server
+npm i
 npm run build
 ```
 
